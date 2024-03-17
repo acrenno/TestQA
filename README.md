@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> a5b43b137c50564aeca34d032307522bca393289
 # TestQA
 
 Bem-vindo ao teste de estágio em QA! Este repositório contém dois projetos de teste:
@@ -46,6 +43,6 @@ Neste projeto, você encontrará testes automatizados para uma API específica u
 
 Neste projeto, você encontrará testes automatizados para o frontend utilizando o Cypress, testando as funções de Cadastro e Login no site https://front.serverest.dev/
 
->>>>>>> a5b43b137c50564aeca34d032307522bca393289
+
 
 
