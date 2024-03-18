@@ -4,9 +4,9 @@
 Bem-vindo ao teste de estágio em QA! Este repositório contém dois projetos de teste:
 
 
-Teste de API no Postman: Neste projeto, iremos realizar testes automatizados em uma API utilizando o Postman.
+Teste de API no Postman: Neste projeto, iremos realizar testes automatizados em uma API utilizando o Postman (Arquivo API_Postman).
 
-Teste de Frontend no Cypress: Aqui, iremos realizar testes automatizados de frontend utilizando o Cypress.
+Teste de Frontend no Cypress: Aqui, iremos realizar testes automatizados de frontend utilizando o Cypress (Pasta TestFrontCY).
 
 # Teste de API no Postman
 Neste projeto, você encontrará testes automatizados para uma API específica utilizando o Postman, onde foi focado em realizar as funcionalidades do sistema CRUD (Create, Read, Update e Delete ), na API pública https://serverest.dev/
